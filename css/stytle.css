@@ -1,0 +1,82 @@
+body{
+    background-image: url("https://westeurope1-mediap.svc.ms/transform/thumbnail?provider=spo&inputFormat=jpg&cs=fFNQTw&docid=https%3A%2F%2Falqudscollege-my.sharepoint.com%3A443%2F_api%2Fv2.0%2Fdrives%2Fb!4kW0Mz1ymE6DvXc0RHm89r7i7SSJUsJOkA-56aojf1AKR62oXKimQaAG9ivOPT6d%2Fitems%2F01W4C7VWHHWDPBEPU55JE3BBNQYH6MEZZT%3Fversion%3DPublished&access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvYWxxdWRzY29sbGVnZS1teS5zaGFyZXBvaW50LmNvbUBhMTYyYzUzMi03YTBjLTQ2NDUtOTZmZC0yMGQwMTljZjRlNWEiLCJpc3MiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAiLCJuYmYiOiIxNjIyNTI3MjAwIiwiZXhwIjoiMTYyMjU0ODgwMCIsImVuZHBvaW50dXJsIjoiQi9xc0M5cVUzVjZORCtLVm4zdTFETkhwbXo0ZFQrakI4cVl0eDJjUE1mWT0iLCJlbmRwb2ludHVybExlbmd0aCI6IjEyMyIsImlzbG9vcGJhY2siOiJUcnVlIiwidmVyIjoiaGFzaGVkcHJvb2Z0b2tlbiIsInNpdGVpZCI6Ik16TmlORFExWlRJdE56SXpaQzAwWlRrNExUZ3pZbVF0Tnpjek5EUTBOemxpWTJZMiIsIm5hbWVpZCI6IjAjLmZ8bWVtYmVyc2hpcHx1cm4lM2FzcG8lM2Fhbm9uIzRmYmMwYTk3Yjg0MDc5NGM2NDY5MjNmYThhN2ViODVmY2I0MmRjMTljZWYzOTRhYmUwNmFjYzAwZGRiZDY3ZDYiLCJuaWkiOiJtaWNyb3NvZnQuc2hhcmVwb2ludCIsImlzdXNlciI6InRydWUiLCJjYWNoZWtleSI6IjBoLmZ8bWVtYmVyc2hpcHx1cm4lM2FzcG8lM2Fhbm9uIzRmYmMwYTk3Yjg0MDc5NGM2NDY5MjNmYThhN2ViODVmY2I0MmRjMTljZWYzOTRhYmUwNmFjYzAwZGRiZDY3ZDYiLCJzaGFyaW5naWQiOiJ2T1k4VnhVak5rZUFHUXBoQ0J6RmlnIiwidHQiOiIwIiwidXNlUGVyc2lzdGVudENvb2tpZSI6IjIifQ.ZGdBb0xBVHJvRE9OVlpCVVU1UkVYbXlnM2hhR1piS1JHU25UZy9oUVFnST0&encodeFailures=1&width=791&height=524&srcWidth=1131&srcHeight=750");
+width: 100%;
+  height: 100%;
+background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#h1{
+    
+    color: red;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(255, 220, 64);
+    height: 50px;
+    padding: 25px;
+
+}
+footer{
+   
+    background-color: rgb(255, 220, 64);
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+    height: 50px;
+    text-align: center;
+    padding: 25px;
+    color: red;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+input[type=text], select {
+
+    padding: 5px 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  select{
+      width: 190px;
+      margin-left: 35px;
+  }
+  input[type=submit] {
+ 
+    background-color: #da1616;
+    color: white;
+    /* padding: 14px 20px; */
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    height: 25px;
+    width: 190px;
+    margin-left: 110px;
+    
+   
+  
+  }
+  fieldset{
+    background-color: rgb(255, 220, 64);
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 300px;
+    padding: 30px;
+    height: 150px;
+
+  }
+  #logo{
+   /* display:inline; */
+    width: 100px;
+    position: relative;
+    bottom: 100px;
+  }
+
+  label{
+    color: red; 
+  }
